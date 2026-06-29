@@ -2,15 +2,19 @@ from collections import Counter
 import re
 
 # --------load sentences from training.
-with open("training.txt", "r", encoding="utf-8") as f:
-    sentences = [line.strip() for line in f if line.strip()]
+with open("Na'vi Files/training.txt", "r", encoding="utf-8") as f:
+    training = [line.strip() for line in f if line.strip()]
+
+with open("Na'vi Files/test.txt", "r", encoding="utf-8") as f:
+    test = [line.strip() for line in f if line.strip()]
 
 # --------- helper: tokenize ----------
 def tokenize(text):
     return re.findall(r"\w+", text.lower())
 
 # --------- precompute tokens ----------
-tokenized = [tokenize(s) for s in sentences]
+training_tokens = [tokenize(s) for s in training]
+test_tokens = [tokenize(s) for s in test]
 
 # --------- similarity (word overlap score) ----------
 def similarity(a_tokens, b_tokens):
@@ -26,21 +30,17 @@ def similarity(a_tokens, b_tokens):
 # --------- find top 3 for each sentence ----------
 all_selected = set()
 
-for i, sent_i in enumerate(sentences):
+for i, train_sent in enumerate(training):
     scores = []
 
-    for j, sent_j in enumerate(sentences):
-        if i == j:
-            continue
+    for j, test_sent in enumerate(test):
+        score = similarity(training_tokens[i], test_tokens[j])
+        scores.append((score, test_sent))
 
-        score = similarity(tokenized[i], tokenized[j])
-        scores.append((score, sent_j))
-
-    # sort by best match
     scores.sort(reverse=True, key=lambda x: x[0])
 
-    top3 = [s for _, s in scores[:30]]
-    all_selected.update(top3)
+    top30 = [s for _, s in scores[:30]]
+    all_selected.update(top30)
 
 
 # --------- write unique results ----------

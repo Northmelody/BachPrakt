@@ -1,0 +1,12 @@
+--------------------Output the Object of the sentence and how it is described.
+qwen:
+The sentence translates to **"Nikreri made [something] to Riniyä"** or **"Nikreri created a thing for Riniyä"**.  
+- The **object** (*Riniyä*) is the recipient of the action (the thing created is intended for Riniyä).  
+- The **description** (*’ur fkan lor*) specifies the action (making/creating) and the purpose (for Riniyä).  
+
+llam:
+The sentence is: Nikreri Riniyä ’ur fkan lor.
+Object: lor (the object is a noun, referring to something)
+Description: fkan (described as "beautiful" or "lovely", but more likely meaning "good" or "fine" in this context)
+
+solution: nikre=hair -> Rini's hair looks beautiful

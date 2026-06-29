@@ -1,0 +1,27 @@
+----------------------------direct translations
+qwen:Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw. | I will answer your question to the Tsahik.  
+Nga mal larmu oer! | What about your [task]?  
+Poel oeti larmawk. | The message from yesterday, your [task].  
+Tìkangkemìri varmrrìn oe nìwotx. | I will take care of your food.  
+New oe rivun asim tìfnunga’a tsengit | New, I will speak with your truth.  
+Tuteol asipit aytäremä txolula mì na’rìng. | I say I am your [something] to your [something].  
+Ayoe ke wasyem. | I am to your [task].  
+Fìtskoti afyolup ’ongolop oeyä sempulìl. | I will shape your [something] my message.
+
+llama: Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw | The teacher is giving a lesson to our students in school.
+Nga mal larmu oer! | What's wrong with you!
+Poel oeti larmawk. | He doesn't know how to swim.
+Tìkangkemìri varmrrìn oe nìwotx. | I'm very satisfied with your work on the project.
+New oe rivun asim tìfnunga’a tsengit | I don't want to go to that place again.
+Tuteol asipit aytäremä txolula mì na’rìng. | That person is always making mistakes.
+Ayoe ke wasyem. | You're not listening.
+Fìtskoti afyolup ’ongolop oeyä sempulìl. | The flowers in your garden are very beautiful.
+
+solution: Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw. | I gave the crossbow to my brother Istaw.
+Nga mal larmu oer! | I trusted you!
+Poel oeti larmawk. | She was talking about me.
+Tìkangkemìri varmrrìn oe nìwotx. | I was completely overwhelmed at work.
+New oe rivun asim tìfnunga’a tsengit | I want to find a quiet place nearby.
+Tuteol asipit aytäremä txolula mì na’rìng. | Someone built a tower of bones in the forest.
+Ayoe ke wasyem. | We will not fight.
+Fìtskoti afyolup ’ongolop oeyä sempulìl. | This exquisite bow was designed by my father.

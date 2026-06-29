@@ -1,0 +1,5 @@
+-----What did akwey do and how well did he do it?
+qwen: "Trramä ayuvanìri makto Akwey nìyewla ha snaytx" translates to:"Akwey did it well and successfully."
+llama:"Akwey enjoyed playing the game very much and succeeded at it." / Or, more idiomatically: "Akwey had a blast playing the game and did an excellent job!"
+
+solution: Akwey rode disappointingly in yesterday’s games so he lost.

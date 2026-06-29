@@ -10,7 +10,7 @@ OPENROUTER_KEY = "sk-or-v1-3f241cdd10054a388f2e71c194f668d5c212f3d156f13e5a75e5c
 with open("training.txt", "r") as f:
     training = f.read()
 
-with open("test.txt", "r") as f:
+with open("test2.txt", "r") as f:
     test = f.read()
 
 

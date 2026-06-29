@@ -1,35 +1,5 @@
 models: "qwen3", "llama3.1:8b"
 
-
-Fìsäspxinìri ngeyä ke längu kea ’umtsa.
------------------------------Output the correct solution from these bullet points:
--the sentence means that there is no medicine for this disease
--the sentence means that there is medicine for this disease
--the sentence means that there is a weapon
--the sentence means <I am here for you>
-
-qwen: -the sentence means that there is no medicine for this disease
-
-Llama:-the sentence means that there is medicine for this disease*
-Explanation: The word "fìsäspxin" means "medicine", and the suffix "-ri" indicates possession or existence.
-    Therefore, the sentence "Fìsäspxinìri ngeyä ke längu kea ’umtsa" can be translated to "There is medicine for this disease".
------------------------------Output the Object of the sentence and how it is described.
-qwen:
-The sentence translates to **"Nikreri made [something] to Riniyä"** or **"Nikreri created a thing for Riniyä"**.  
-- The **object** (*Riniyä*) is the recipient of the action (the thing created is intended for Riniyä).  
-- The **description** (*’ur fkan lor*) specifies the action (making/creating) and the purpose (for Riniyä).  
-
-llam:
-The sentence is: Nikreri Riniyä ’ur fkan lor.
-Object: lor (the object is a noun, referring to something)
-Description: fkan (described as "beautiful" or "lovely", but more likely meaning "good" or "fine" in this context)
-
-solution: nikre=hair -> Rini's hair looks beautiful
------------------------------What did akwey do and how well did he do it?
-qwen: "Trramä ayuvanìri makto Akwey nìyewla ha snaytx" translates to:"Akwey did it well and successfully."
-llama:"Akwey enjoyed playing the game very much and succeeded at it." / Or, more idiomatically: "Akwey had a blast playing the game and did an excellent job!"
-
-solution: Akwey rode disappointingly in yesterday’s games so he lost.
 ----------------------------direct translations
 qwen:Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw. | I will answer your question to the Tsahik.  
 Nga mal larmu oer! | What about your [task]?  

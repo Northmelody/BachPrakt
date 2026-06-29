@@ -1,11 +1,9 @@
-Tsalì’uri alu X, ral lu ’upe? | What does X mean?
 awngal yom fkxenti lerìk nìwotx | We eat leafy vegetable-food.
 Oel tse’a ’a’awa tutet. | I see several people.
 Fpole’ ayngal oer a ’upxare. | The message you have sent me.
 Rutxe mehawnvenit ’ivaku. | Please take off your shoes.
 Pot ’aku fìtsengta! | Get him out of here!
 Fo kelku si few ’ora. | They live on the opposite side of the lake.
-Rä’ä ’ival syuvet! | Don’t waste food.
 ’Ali’ät vulsìn keykur za’u fìtseng. | Hang the choker on the branch and come here.
 Zene fko ’ivampi prrnenit nìflrr frakrr. | One must always touch a baby gently.
 Tsayerik terul ne ’awkx. Spä skxawng sìn ’ana aflì. | That hexapede is running toward the cliff. Only a fool jumps onto a thin vine.
@@ -46,7 +44,6 @@ Menga lu oeyä ’eylan. | You two are my friends.
 Tìkan fìpayoangä ke lu fwa tsun fko pot yivom; lu oeyä ’eylyong. | This fish is not meant to be eaten; it’s my pet.
 ’Awa tìpawmìri ’iveyng oe set; aylari zusawkrr ’ayeyng. Let me answer one of the questions now; the others (I’ll) answer in the future.
 Neytiril nantangit tsolukx fte peyä tìsrawti ’eykivi’a. | Neytiri stabbed the viperwolf to end its pain.
-Eo Eywa oe ’ia. | I lose myself before Eywa.
 Kawkrr ke lu peyä ayvur ’ipu kaw’it. | His stories are never a bit amusing.
 Fralo a taron, oeyä ’itan txopu si nìnänän. | Each time he hunts, my son becomes less and less afraid.
 Peyä ’itanìri lu hona nìtxan a fì’u law lu frapor. | It’s clear to everyone that his son is very cute.
@@ -57,10 +54,8 @@ Ketsran tute nivew hivum, poru plltxe san rutxe ’ivì’awn. | No matter who w
 ’Ìn nga fyape nìfkrr? | What’s been keeping you busy lately?
 Krro lu ’Ìnglìsì txur nìhawng mì re’o. | Sometimes English is too strong in (my) head.
 Furia fìlì’fyavit fkol ta ’Ìnglìsì molunge, sìlpey oe tsnì ayhapxìtu lì’fyaolo’ä awngeyä ke stìyevi. | That this expression is brought from English, will hopefully not anger the members of the language group.
-Oeyä tskalep ’olìp ningyen. | My crossbow has mysteriously disappeared.
 Furia ’llngo ngeyä zoslu, ’efu oe nitram nì’aw. | I’m just happy that your hip is getting better.
 Ayuvan letokx ’o’ lu nìtxan. | Sports are great fun.
-’O’a Ftxozä Hälowinä, ma frapo! | Happy Halloween, everyone!
 Tengkrr palulukan moene kxll sarmi, poltxe Neytiril aylì’ut a frakrr ’ok seyä layu oer. | As the thanator was charging towards the two of us, Neytiri said something I will always remember.
 Tsun fko ayonti fìwopxä nivìn fte yafkeykit sresive’a. | The shapes of clouds can be used to predict the weather.
 ’Onìri tskoä lu tìkin sälatemä ahì’i. | The form of the bow requires a small change.
@@ -87,7 +82,6 @@ Ralu rìkxi krra srew, rì’ìr si palukanur a lu alaksi fte spivä. | Ralu doe
 Srane, lì’ul alu mì frakrr leykatem lì’ut ahay tsafya. | Yes, the word mì always changes the next word like that.
 Oe alu Tsahìk ke tsun mìftxele tsngivawvìk; oe alu sa’nok tsun. | As Tsahik, I cannot weep over this matter; as a mother, I can.
 Tì’eyngit oel tolel a krr, ayngaru payeng, tsakrr paye’un sweya fya’ot a zamivunge oel ayngar aylì’ut horentisì lì’fyayä leNa’vi. | When I’ve received an answer, I will tell you and then decide on the best way to bring you the words and rules of the Na’vi language.
-Rä’ä fmivi livok fu emkivä ayekxanit a fkol ngolop fpi sìkxuke ayfrrtuä sì ayioangä. | Don’t try to approach or cross the barricades that were created for the sake of the visitors’ and animals’ safety.
 Utral a lu few payfya a eo kelku oeyä tsawl lu nìtxan. | The tree on the other side of the stream in front of my house is very tall.
 Säplltxeviri alahe, lu lì’fyavi ngeyä eyawr, lu pum oeyä eyawr nìteng. | Concerning the other comment, your expression is correct, mine is correct as well.
 Hufwa lu filur Va’ruä fnefe’ranvi, tsalsungay fpìl futa sayrìp lu nìtxan. | Although Va’ru’s facial stripes are rather uneven, I still think he’s very handsome.
@@ -97,9 +91,8 @@ Fol fte ayspe’etut livonu fngo’ ’upet? | What are they demanding in order 
 Entul Peyralit fìtxan flolel kuma fpìl poe san oe yawne lu por. | Entu fooled Peyral so much that she thought he loved her.
 Karyul fngolo’ futa aynumeyu pivate ye’krr. | The teacher required the students to arrive early.
 Txantstew säro’a si, fnawe’tu ke si. | A hero does great deeds, a coward does not.
-Fìlì’uä ral lu tìme’em. | This word means harmony.
 Fìatxkxeti ke raya’un ayoel kawkrr! | We will never give up this land.
 Tsavur feyä ayeltur tìtxen soli. | They found that story interesting.
-Eytukanìl fa Neytiri yerikit teykolaron. | Eytukan had a hexapede hunted by Neytiri.
 Oel ronsrelngop futa Eywevengit tok. | I imagine that I’m on Pandora.
 Slä fìfya tsafya, ngari tireal tsatsenget tayok. | But one way or the other your spirit will be there.
+Poel oeti larmawk. | She was talking about me.

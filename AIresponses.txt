@@ -1,0 +1,498 @@
+models: "qwen3", "llama3.1:8b"
+
+
+Fìsäspxinìri ngeyä ke längu kea ’umtsa.
+-----------------------------Output the correct solution from these bullet points:
+-the sentence means that there is no medicine for this disease
+-the sentence means that there is medicine for this disease
+-the sentence means that there is a weapon
+-the sentence means <I am here for you>
+
+qwen: -the sentence means that there is no medicine for this disease
+
+Llama:-the sentence means that there is medicine for this disease*
+Explanation: The word "fìsäspxin" means "medicine", and the suffix "-ri" indicates possession or existence.
+    Therefore, the sentence "Fìsäspxinìri ngeyä ke längu kea ’umtsa" can be translated to "There is medicine for this disease".
+-----------------------------Output the Object of the sentence and how it is described.
+qwen:
+The sentence translates to **"Nikreri made [something] to Riniyä"** or **"Nikreri created a thing for Riniyä"**.  
+- The **object** (*Riniyä*) is the recipient of the action (the thing created is intended for Riniyä).  
+- The **description** (*’ur fkan lor*) specifies the action (making/creating) and the purpose (for Riniyä).  
+
+llam:
+The sentence is: Nikreri Riniyä ’ur fkan lor.
+Object: lor (the object is a noun, referring to something)
+Description: fkan (described as "beautiful" or "lovely", but more likely meaning "good" or "fine" in this context)
+
+solution: nikre=hair -> Rini's hair looks beautiful
+-----------------------------What did akwey do and how well did he do it?
+qwen: "Trramä ayuvanìri makto Akwey nìyewla ha snaytx" translates to:"Akwey did it well and successfully."
+llama:"Akwey enjoyed playing the game very much and succeeded at it." / Or, more idiomatically: "Akwey had a blast playing the game and did an excellent job!"
+
+solution: Akwey rode disappointingly in yesterday’s games so he lost.
+----------------------------direct translations
+qwen:Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw. | I will answer your question to the Tsahik.  
+Nga mal larmu oer! | What about your [task]?  
+Poel oeti larmawk. | The message from yesterday, your [task].  
+Tìkangkemìri varmrrìn oe nìwotx. | I will take care of your food.  
+New oe rivun asim tìfnunga’a tsengit | New, I will speak with your truth.  
+Tuteol asipit aytäremä txolula mì na’rìng. | I say I am your [something] to your [something].  
+Ayoe ke wasyem. | I am to your [task].  
+Fìtskoti afyolup ’ongolop oeyä sempulìl. | I will shape your [something] my message.
+
+llama: Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw | The teacher is giving a lesson to our students in school.
+Nga mal larmu oer! | What's wrong with you!
+Poel oeti larmawk. | He doesn't know how to swim.
+Tìkangkemìri varmrrìn oe nìwotx. | I'm very satisfied with your work on the project.
+New oe rivun asim tìfnunga’a tsengit | I don't want to go to that place again.
+Tuteol asipit aytäremä txolula mì na’rìng. | That person is always making mistakes.
+Ayoe ke wasyem. | You're not listening.
+Fìtskoti afyolup ’ongolop oeyä sempulìl. | The flowers in your garden are very beautiful.
+
+solution: Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw. | I gave the crossbow to my brother Istaw.
+Nga mal larmu oer! | I trusted you!
+Poel oeti larmawk. | She was talking about me.
+Tìkangkemìri varmrrìn oe nìwotx. | I was completely overwhelmed at work.
+New oe rivun asim tìfnunga’a tsengit | I want to find a quiet place nearby.
+Tuteol asipit aytäremä txolula mì na’rìng. | Someone built a tower of bones in the forest.
+Ayoe ke wasyem. | We will not fight.
+Fìtskoti afyolup ’ongolop oeyä sempulìl. | This exquisite bow was designed by my father.
+--------------------------multiple_
+Sentence 1:
+Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw.
+
+Question:
+What does this sentence mean?
+
+A. I gave the crossbow to my brother Istaw.
+B. Istaw gave me a crossbow for my brother.
+C. My brother Istaw gave me a bow and arrow.
+D. I will give the crossbow to Istaw.
+
+Sentence 2:
+Txoa livu, yawne lu oer Sorewn ... alu ... ke tsun oeng muntxa slivu
+
+Question:
+What is the meaning of this sentence?
+
+A. I hate Sorewn and want to marry you.
+B. Sorry, I love Sorewn, so we cannot marry.
+C. I love you and Sorewn equally, so we can marry.
+D. Sorry, I cannot speak with Sorewn or you.
+
+Sentence 3:
+Fìkaryu alu fìpo lu tsulfätu; tsakaryu alu tsapo lu skxawng.
+
+Question:
+What is being compared in this sentence?
+
+A. This teacher is wise, that teacher is young.
+B. This teacher is a master, that teacher is a fool.
+C. Both teachers are masters.
+D. Both teachers are fools.
+
+Sentence 4:
+Aylì’fya yawne leru oer takrra ’eveng lamu.
+
+Question:
+What does this sentence mean?
+
+A. I began loving languages as a child.
+B. I stopped learning languages as a child.
+C. I only liked speaking as a child.
+D. Children love learning my language
+
+Sentence 5:
+Ke lu oer am’a.
+
+Question:
+What is the correct translation?
+
+A. I have no doubt.
+B. I have many doubts.
+C. I do not understand you.
+D. I am not certain about you.
+
+QWEN: 1.A, 2.B, 3.B, 4.A, 5.C       4/5
+
+LLAMA: 1.D 2.B 3.B 4.A 5.A          4/5
+
+SOLUTION: A B B A A
+---------------------------------------------------------------------------------------
+entence 1:
+
+Nga new yivom ’upet fìtxon?
+
+What does this sentence mean?
+
+A. Do you want to drink something tonight?
+B. Are you going to cook food tonight?
+C. What do you want to eat tonight?
+D. What did you eat last night?
+
+Sentence 2:
+
+’Ul tskxekeng si, ’ul fnan.
+
+What does this sentence mean?
+
+A. The more you study, the harder it becomes.
+B. Practice is not important for learning.
+C. The more you practice, the better you get.
+D. The less you practice, the better you get.
+
+Sentence 3:
+
+Fìsäspxinìri ngeyä ke längu kea ’umtsa.
+
+What does this sentence mean?
+
+A. Your disease is caused by medicine.
+B. Unfortunately, there is no medicine for your disease.
+C. There is medicine for your disease.
+D. You will recover without medicine.
+
+Sentence 4:
+
+Fìnaerìri ngal ewku ’uot astxong srak?
+
+What is being asked?
+
+A. Do you want another drink?
+B. Is this drink too cold?
+C. Do you taste something strange in this drink?
+D. Do you like this drink very much?
+
+Sentence 5:
+
+Lu pìlokur pxesìkan sì pxefne’upxare.
+
+What does this sentence mean?
+
+A. The blog has three readers and three authors.
+B. The blog has one aim and many messages.
+C. The blog has three aims and three kinds of messages.
+D. The blog has three topics and three writers.
+
+Sentence 6:
+
+Spängaw oel futa fì’upxareyä tìralpeng ke lu eyawr.
+
+What does this sentence mean?
+
+A. The message cannot be translated.
+B. I believe the translation of this message is correct.
+C. I think the message is very clear.
+D. Unfortunately, I don’t believe the translation is correct.
+
+Sentence 7:
+
+Nikreri Riniyä ’ur fkan lor.
+
+What does this sentence mean?
+
+A. Rini’s hair looks ugly.
+B. Rini is cutting her hair.
+C. Rini has no hair.
+D. Rini’s hair looks beautiful.
+
+Sentence 8:
+
+Fpole’ ayngal oer fìtxan nìftxavang a ’upxaret stolawm oel.
+
+What does this sentence mean?
+
+A. I have heard your message very strongly.
+B. You misunderstood my message.
+C. I sent you a message very quickly.
+D. I have not received your message.
+
+Sentence 9:
+
+Txantsana ultxa a mì Siätll soluneiu oer nìtxan.
+
+What does this sentence mean?
+
+A. The meeting in Seattle was cancelled.
+B. I liked the fantastic meeting in Seattle very much.
+C. I strongly disliked the meeting in Seattle.
+D. I will travel to Seattle for a meeting.
+
+Sentence 10:
+
+Aylì’ufa awngeyä ’eylanä a’ewan
+
+What does this sentence mean?
+
+A. A message from our enemy
+B. In the words of our young friend
+C. In the words of our teacher
+D. A story about a young friend
+
+Sentence 11:
+
+Eywaru aho, ma ’itan, fte Nawma Sa’nokìl tìyevìng ngar tìtxurit.
+
+What does this sentence mean?
+
+A. The Great Mother is calling your son.
+B. Pray to Eywa, my son, that the Great Mother gives you strength.
+C. Eywa will take your strength away.
+D. Pray to Eywa, my son, to give strength to others.
+
+Sentence 12:
+
+Trramä ayuvanìri makto Akwey nìyewla ha snaytx.
+
+What does this sentence mean?
+
+A. Akwey rode badly and lost yesterday’s games.
+B. Akwey did not participate in the games.
+C. Akwey rode well and won the games.
+D. Akwey was injured during training.
+
+Sentence 13:
+
+Alaksi srak, ma frapo?
+
+What does this sentence mean?
+
+A. Are you listening, everyone?
+B. Are you ready, everyone?
+C. Are you hungry, everyone?
+D. Are you leaving, everyone?
+
+Sentence 14:
+
+na’rìng a ke lalmu tsar kea rìk
+
+What does this sentence mean?
+
+A. The forest that was full of animals
+B. The forest that had many leaves
+C. The forest that is growing
+D. The forest that had no leaves
+
+Sentence 15:
+
+Fkxilet a tsawfa poe ioi säpalmi ngolop Va’rul.
+
+What does this sentence mean?
+
+A. She gave Va’ru a necklace.
+B. Va’ru destroyed the necklace she was wearing.
+C. Va’ru is the one who created the necklace she was wearing.
+D. Va’ru found a necklace in the forest.
+
+Sentence 16:
+
+Fmi pivlltxe alo avol nìwin!
+
+What does this sentence mean?
+
+A. Try to say that slowly and carefully.
+B. Repeat the sentence in writing.
+C. Translate the sentence into English.
+D. Try to say that eight times fast!
+
+
+QWEN:    1.C, 2.C, 3.B, 4.C, 5.C, 6.B, 7.D, 8.C, 9.A, 10.B, 11.D, 12.C, 13.B, 14.B, 15.A, 16.A    8/16
+LLAMA:   1.C, 2.C, 3.C, 4.D, 5.C, 6.B, 7.D, 8.A, 9.B, 10.B, 11.B, 12.C, 13.B, 14.A, 15.A, 16.A    9/16
+Solution: 1.C, 2.C, 3.B, 4.C, 5.C, 6.D, 7.D, 8.A, 9.B, 10.B, 11.B, 12.A, 13.B, 14.D, 15.C, 16.D
+
+--------------------------------------------
+Sentence 1:
+
+Tsaria pol awngati ke txayìng oe ’efu am’ake nìwotx.
+A. I completely trust that he will leave us.
+B. I’m entirely confident that he won’t abandon us.
+C. He might abandon us at some point.
+D. I am unsure whether he will stay with us.
+
+Sentence 2:
+
+Am’aluke snayaytx Sawtute, yayora’ Na’vi.
+A. The Sky People and Na’vi will both lose.
+B. The Sky People will win and Na’vi will lose.
+C. Without a doubt the Sky People will lose and the People will win.
+D. There is uncertainty about the outcome of the battle.
+
+Sentence 3:
+
+Trr lefpom, ma Sute Amerikayä.
+A. Good evening, people of America.
+B. People of America are welcome.
+C. Hello, people of America at night.
+D. Good morning, people of America.
+
+Sentence 4:
+
+Oe lu Anuraiyä syena hapxì a rey.
+A. I am a new member of the Anurai.
+B. The Anurai are many and strong.
+C. I am the last living member of the Anurai.
+D. I was once part of the Anurai tribe.
+
+Sentence 5:
+
+Oeyk tsatìsnaytxä lu apxa sänui tìeyktanä.
+A. That loss was caused by a great failure of leadership.
+B. The loss was caused by natural disaster.
+C. Leadership improved after the loss.
+D. There was no real failure involved.
+
+Sentence 6:
+
+Nga mal larmu oer!
+A. I will trust you.
+B. You should trust me.
+C. I trust myself.
+D. I trusted you!
+
+Sentence 7:
+
+Poel oeti larmawk.
+A. I was talking about her.
+B. She was talking about me.
+C. She is speaking to me now.
+D. She refused to talk to me.
+
+Sentence 8:
+
+Tìkangkemìri varmrrìn oe nìwotx.
+A. I was completely overwhelmed at work.
+B. I enjoyed my work very much.
+C. I left work early and relaxed.
+D. I am currently searching for work.
+
+Sentence 9:
+
+New oe rivun asim tìfnunga’a tsengit
+A. I want to build a quiet place nearby.
+B. I want to find a loud place nearby.
+C. I already found a quiet place nearby.
+D. I want to find a quiet place nearby.
+
+Sentence 10:
+
+Tuteol asipit aytäremä txolula mì na’rìng.
+A. A forest was built from bones.
+B. Someone built a tower of bones in the forest.
+C. Bones were found near a tower in the forest.
+D. A tower was destroyed in the forest.
+
+Sentence 11:
+
+Ayoe ke wasyem.
+A. We are fighting now.
+B. We will not fight.
+C. We have already fought.
+D. We might fight later.
+
+Sentence 12:
+
+Tsun awnga kelku sivi nì’eng Sawtutehu mì atxkxe awngeyä.
+
+A. We must take land from the Sky People.
+B. We can share our land with the Sky People.
+C. The Sky People will take our land.
+D. We refuse to share land with anyone.
+
+Sentence 13:
+
+Fìatxkxeti ke raya’un ayoel kawkrr!
+
+A. We might give up this land later.
+B. We already gave up this land.
+C. We will never give up this land.
+D. This land is not important to us.
+
+Sentence 14:
+
+Fpìrmìl oel futa aynga natsew tsive’a fì’ut.
+
+A. I was just thinking that you might want to see this.
+B. I demand that you see this immediately.
+C. I already showed you this earlier.
+D. I will not show you this.
+
+Sentence 15:
+
+Po pamtseo si fa au nìltsan nìtxan.
+
+A. She plays the drums very well.
+B. She is learning to play drums.
+C. She does not play instruments.
+D. She plays the guitar very well.
+
+Sentence 16:
+
+Tsakrr za’u aungia ta Eywa.
+
+A. A sign from Eywa came later.
+B. There was no sign from Eywa.
+C. Then came a sign from Eywa.
+D. Eywa was waiting for a sign.
+
+Sentence 17:
+
+Zene Sa’nok fìaungiati ralpiveng.
+
+A. Mother has to ignore this omen.
+B. Mother already interpreted this omen.
+C. Mother has to interpret this omen.
+D. The omen belongs to Mother.
+
+Sentence 18:
+
+Rutxe oeyä tìoeyktìngit asawnung nivìn.
+
+A. Please ignore my explanation.
+B. Please look at my added explanation.
+C. I will explain it later.
+D. My explanation is unclear.
+
+Sentence 19:
+
+Tìkan tawnatep!
+
+A. Target lost!
+B. Target acquired!
+C. Mission complete!
+D. Target confirmed!
+
+qwen:       1B, 2C, 3A, 4C, 5A, 6A, 7B, 8B, 9D, 10B, 11B, 12A, 13C, 14A, 15A, 16A                   11/16 (?)
+llama:      1B, 2C, 3A, 4D, 5A, 6B, 7B, 8B, 9D, 10B, 11B, 12A, 13C, 14A, 15A, 16C, 17C, 18B, 19B    13/19
+solution:   1B, 2C, 3D, 4C, 5A, 6D, 7B, 8A, 9D, 10B, 11B, 12B, 13C, 14A, 15A, 16C, 17C, 18B, 19A
+
+Same question, german instruction, english multiple choice:
+qwen:       1B, 2C, 3A, 4C, 5A, 6A, 7B, 8B, 9D, 10B, 11A, 12A, 13C, 14A, 15A, 16C, 17C, 18B, 19B    13/19, differnt answers than before but same # correct
+llama:      1A, 2C, 3A, 4D, 5A, 6B, 7A, 8B, 9A, 10B, 11B, 12A, 13C, 14A, 15A, 16C, 17C, 18B, 19B    10/19, worse
+solution:   1B, 2C, 3D, 4C, 5A, 6D, 7B, 8A, 9D, 10B, 11B, 12B, 13C, 14A, 15A, 16C, 17C, 18B, 19A
+
+Same question, french instruction, english multiple choice:
+
+qwen:       1A, 2C, 3A, 4A, 5A, 6A, 7B, 8A, 9D, 10B, 11A, 12A, 13C, 14A, 15A, 16C, 17C, 18B, 19D    12/19
+llama:      1A, 2C, 3A, 4D, 5A, 6B, 7B, 8B, 9A, 10B, 11B, 12C, 13C, 14A, 15A, 16C, 17C, 18B, 19B    11/19, worse
+solution:   1B, 2C, 3D, 4C, 5A, 6D, 7B, 8A, 9D, 10B, 11B, 12B, 13C, 14A, 15A, 16C, 17C, 18B, 19A
+
+After giving some grammar: Here are some simple rules of the language:
+fì- indicates proximal deixis. When used as a plural, it becomes fay+
+tsa- indicates distal dexis. When used as a plural, it becomes tsay+
+-o marks the noun as indefinite
+the ergative case is -l on nouns ending with vowels and -ìl on nouns ending with consonants
+
+
+qwen:       1B, 2C, 3A, 4C, 5A, 6A, 7B, 8A, 9D, 10B, 11A, 12A, 13C, 14A, 15A, 16C                   12/16... worse and disregarded format etc
+llama:      1B, 2C, 3A, 4D, 5A, 6B, 7A, 8B, 9D, 10B, 11B, 12A, 13C, 14A, 15A, 16C, 17C, 18B, 19B    12/19
+solution:   1B, 2C, 3D, 4C, 5A, 6D, 7B, 8A, 9D, 10B, 11B, 12B, 13C, 14A, 15A, 16C, 17C, 18B, 19A
+
+
+
+
+
+
+
+
+
+

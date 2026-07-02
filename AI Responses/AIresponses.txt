@@ -1,32 +1,5 @@
 models: "qwen3", "llama3.1:8b"
 
-----------------------------direct translations
-qwen:Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw. | I will answer your question to the Tsahik.  
-Nga mal larmu oer! | What about your [task]?  
-Poel oeti larmawk. | The message from yesterday, your [task].  
-Tìkangkemìri varmrrìn oe nìwotx. | I will take care of your food.  
-New oe rivun asim tìfnunga’a tsengit | New, I will speak with your truth.  
-Tuteol asipit aytäremä txolula mì na’rìng. | I say I am your [something] to your [something].  
-Ayoe ke wasyem. | I am to your [task].  
-Fìtskoti afyolup ’ongolop oeyä sempulìl. | I will shape your [something] my message.
-
-llama: Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw | The teacher is giving a lesson to our students in school.
-Nga mal larmu oer! | What's wrong with you!
-Poel oeti larmawk. | He doesn't know how to swim.
-Tìkangkemìri varmrrìn oe nìwotx. | I'm very satisfied with your work on the project.
-New oe rivun asim tìfnunga’a tsengit | I don't want to go to that place again.
-Tuteol asipit aytäremä txolula mì na’rìng. | That person is always making mistakes.
-Ayoe ke wasyem. | You're not listening.
-Fìtskoti afyolup ’ongolop oeyä sempulìl. | The flowers in your garden are very beautiful.
-
-solution: Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw. | I gave the crossbow to my brother Istaw.
-Nga mal larmu oer! | I trusted you!
-Poel oeti larmawk. | She was talking about me.
-Tìkangkemìri varmrrìn oe nìwotx. | I was completely overwhelmed at work.
-New oe rivun asim tìfnunga’a tsengit | I want to find a quiet place nearby.
-Tuteol asipit aytäremä txolula mì na’rìng. | Someone built a tower of bones in the forest.
-Ayoe ke wasyem. | We will not fight.
-Fìtskoti afyolup ’ongolop oeyä sempulìl. | This exquisite bow was designed by my father.
 --------------------------multiple_
 Sentence 1:
 Tskalepit oel tolìng oeyä tsmukanur alu Ìstaw.
@@ -264,9 +237,10 @@ A. Try to say that slowly and carefully.
 B. Repeat the sentence in writing.
 C. Translate the sentence into English.
 D. Try to say that eight times fast!
-
-
+                                                                                                  4/5 +
 QWEN:    1.C, 2.C, 3.B, 4.C, 5.C, 6.B, 7.D, 8.C, 9.A, 10.B, 11.D, 12.C, 13.B, 14.B, 15.A, 16.A    8/16
+
+                                                                                                  4/5 +
 LLAMA:   1.C, 2.C, 3.C, 4.D, 5.C, 6.B, 7.D, 8.A, 9.B, 10.B, 11.B, 12.C, 13.B, 14.A, 15.A, 16.A    9/16
 Solution: 1.C, 2.C, 3.B, 4.C, 5.C, 6.D, 7.D, 8.A, 9.B, 10.B, 11.B, 12.A, 13.B, 14.D, 15.C, 16.D
 
@@ -430,8 +404,10 @@ A. Target lost!
 B. Target acquired!
 C. Mission complete!
 D. Target confirmed!
-
+                                                                                                    12/21 +
 qwen:       1B, 2C, 3A, 4C, 5A, 6A, 7B, 8B, 9D, 10B, 11B, 12A, 13C, 14A, 15A, 16A                   11/16 (?)
+
+                                                                                                    13/21 +
 llama:      1B, 2C, 3A, 4D, 5A, 6B, 7B, 8B, 9D, 10B, 11B, 12A, 13C, 14A, 15A, 16C, 17C, 18B, 19B    13/19
 solution:   1B, 2C, 3D, 4C, 5A, 6D, 7B, 8A, 9D, 10B, 11B, 12B, 13C, 14A, 15A, 16C, 17C, 18B, 19A
 
@@ -457,12 +433,159 @@ qwen:       1B, 2C, 3A, 4C, 5A, 6A, 7B, 8A, 9D, 10B, 11A, 12A, 13C, 14A, 15A, 16
 llama:      1B, 2C, 3A, 4D, 5A, 6B, 7A, 8B, 9D, 10B, 11B, 12A, 13C, 14A, 15A, 16C, 17C, 18B, 19B    12/19
 solution:   1B, 2C, 3D, 4C, 5A, 6D, 7B, 8A, 9D, 10B, 11B, 12B, 13C, 14A, 15A, 16C, 17C, 18B, 19A
 
+-------------------------- FROM FILTERED TEST3 SENTENCES
+
+Sentence 1:
+
+awngal yom wutsot tengkrr hereyn nìpxim
+
+A. We eat breakfast while standing outside.
+B. We eat dinner while sitting upright.
+C. We cook dinner together every evening.
+D. We are sitting quietly after dinner.
+
+Sentence 2:
+
+layeiu oer krr nì’ul fte ngivop aylì’ut sì tsayfnesänumvit a tsun frapor srung sivi.
+
+A. I have no time to write new lessons anymore.
+B. I will spend more time studying old words.
+C. Everyone should create their own lessons.
+D. I will have more time to create words and lessons that can help everyone.
+
+Sentence 3:
+
+lu oeru fmokx.
+
+A. I’m jealous.
+B. I’m exhausted.
+C. I’m confused.
+D. I’m grateful.
+
+Sentence 4:
+
+Tsatxon ayutraläo krr a pol oeti nolìn nìwawe.
+
+A. That morning she smiled at me happily.
+B. That night beneath the trees when she looked at me meaningfully.
+C. We walked together beneath the trees.
+D. That evening I spoke to her beneath the trees.
+
+Sentence 5:
+
+Tsavur oeyä eltur tìtxen soli.
+
+A. That story frightened me.
+B. I completely forgot that story.
+C. That story intrigued me.
+D. I told that story to my friends.
+
+Sentence 6:
+
+Tsawla palulukanìl oeti ’ìlmeko a krr, Nawma Sa’nok lrrtok seiyi ulte oe emroley.
+
+A. I escaped because I defeated the thanator myself.
+B. The Great Mother was looking after me when the big thanator attacked and I survived.
+C. The thanator protected me from danger.
+D. The Great Mother disappeared before the attack.
+
+Sentence 7:
+
+Tsawla palulukanìl oeti ’ìlmeko.
+
+A. The big thanator is watching me.
+B. The big thanator attacked my friend.
+C. The big thanator has just attacked me.
+D. I defeated the big thanator.
+
+Sentence 8:
+
+Srake fìkxemyo tsun tsayioangur lehrrap ekxan sivi?
+
+A. Can these animals climb over the wall?
+B. Is this wall too dangerous to approach?
+C. Can this wall keep out those dangerous animals?
+D. Who built this strong wall?
+
+Sentence 9:
+
+Srake tsun oe fayupxaret tslivam nìftue?
+
+A. Can I understand these messages easily?
+B. Can you translate these messages for me?
+C. Why are these messages difficult to read?
+D. I cannot understand these messages.
+
+Sentence 10:
+
+Krra sti nìtxan, pol fyanyot fpap fa mesyokx.
+
+A. He becomes quiet when he is angry.
+B. He leaves the room when he is angry.
+C. He pounds the table with his hand when he is angry.
+D. He throws food across the table.
+
+Sentence 11:
+
+Krro krro, flìa vul arusey to nutxa pum akerusey lu txur.
+
+A. Dead branches are always stronger than living ones.
+B. A thick branch is always better than a thin one.
+C. Living trees never die.
+D. A thin living branch is sometimes stronger than a thick dead one.
+
+Sentence 12:
+
+Kxìm utuftu fnawe’tu.
+
+A. A coward hides beneath the trees.
+B. A brave warrior commands from the canopy.
+C. A coward commands from the canopy.
+D. The leader protects the forest.
+
+Sentence 13:
+
+Fäza’u tsawke krrpe?
+
+A. Why is the sun so bright?
+B. Where did the sun go?
+C. How long will the sun shine?
+D. When will the sun come up?
+
+Sentence 14:
+
+Furia nga ke tsan’ul, var nga ehetx sivi nì’aw.
+
+A. You are improving every day because you work hard.
+B. You only keep making excuses about your lack of improvement.
+C. You should stop helping other people.
+D. Your improvement surprised everyone.
+
+qwen:       1A, 2D, 3D, 4B, 5C, 6B, 7C, 8C, 9B, 10C, 11D, 12A, 13D 14B      10/14
+llama:      1A, 2D, 3A, 4B, 5C, 6B, 7C, 8C, 9A, 10A, 11D, 12A, 13A, 14A.    9/14
+solution:   1B, 2D, 3A, 4B, 5C, 6B, 7C, 8C, 9A, 10C, 11D, 12C, 13D, 14B
 
 
+qwen -en instructions :23/37  62,16%
+llama -en instructions:26/40  65%
 
+qwen -ger instructions :13/19  68,42%
+llama -ger instructions:10/19  52,63%
 
+qwen -fr instructions :12/19   63,16%
+llama -fr instructions:11/19   57,89%
 
+with some grammar explanation:
+qwen -en instructions :12/16   75%
+llama -en instructions:12/19   63,16%
+-----------------------------------------test3 questions
 
+qwen:           
+llama:          
 
+qwen -ger:      
+llama -ger:     
 
+qwen -fr:       
+llama -fr:      
 

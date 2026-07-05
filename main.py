@@ -15,6 +15,10 @@ with open("test3.txt", "r") as f:
 #Na'vi sentence | English translation :
 #Now look at these multiple choice questions and choose the correct translation.
 #Format your answer like 1A, 2B, 3C, ... in one line.
+#/////
+#Now accurately translate the following sentences.
+#Give your response in the same format as the training sentences, Na'vi Sentence | Your english translation.
+#Do not explain, only give the translations.
 
 #Du lernst eine konstruierte Sprache.
 #Lerne von diesen Beispielen mit der Formattierung Na'vi Satz | Englische Übersetzung :
@@ -35,15 +39,15 @@ with open("test3.txt", "r") as f:
 
 prompt = f"""
 
-You are learning a constructed language.
-Study these examples which are formatted like 
-Na'vi sentence | English translation :
+Du lernst eine konstruierte Sprache.
+Lerne von diesen Beispielen mit der Formattierung
+Na'vi Satz | Englische Übersetzung :
 
 {training}
 
-Now accurately translate the following sentences.
-Give your response in the same format as the training sentences, Na'vi Sentence | Your english translation.
-Do not explain, only give the translations.
+Jetzt übersetze die folgenden Sätze akkurat.
+Gib deine Antwort im gleichen Format wie die Training-Sätze, Na'vi Satz | Deine Englische Übersetzung.
+Gib keine Erklärung, sondern nur die Übersetzung.
 
 Alaksi srak, ma frapo?
 Am’aluke snayaytx Sawtute, yayora’ Na’vi.

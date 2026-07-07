@@ -1,0 +1,22 @@
+Llama less likely to hallucinate randomly, chooses training sentences as answers that dont match instead, 
+qwen fully hallucinates new info
+
+
+Multiple choice:
+qwen -en instructions :23/37  62,16%
+llama -en instructions:26/40  65%
+
+qwen -ger instructions :13/19  68,42%
+llama -ger instructions:10/19  52,63%
+
+qwen -fr instructions :12/19   63,16%
+llama -fr instructions:11/19   57,89%
+
+with some grammar explanation:
+qwen -en instructions :12/16   75%  -> qwen noticably better BUT grammar is not relevant
+llama -en instructions:12/19   63,16%
+
+----> qwen understands grammar better and can use the training better on new vocab 
+
+
+pure translation : llama understands -l and -t case endings better, qwen doesnt notice those 

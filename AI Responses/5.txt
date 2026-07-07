@@ -1,14 +1,90 @@
+Solution:
+Alaksi srak, ma frapo? | Are you ready, everyone?
+Am’aluke snayaytx Sawtute, yayora’ Na’vi. | Without a doubt the Sky People will lose and the People will win.
+Awnga kelku si nuä ayram alusìng. | We live beyond the flying mountains.
+Ayfo solop ìlä hilvan fa uran. | They traveled along the river by boat.
+Aylì’fya yawne leru oer takrra ’eveng lamu. | I’ve loved languages since I was a child.
+
+Aylì’ufa awngeyä ’eylanä a’ewan. | In the words of our young friend.
+Ayngari fìkem feyä ’e’ala topur kangay sìyi nì’aw. This will only confirm their worst fears about you.
+Ayngengaru oheyä tsmukit alu Newey te Tskaha Sorewn’ite. | Allow me to introduce my sister, Newey te Tskaha Sorewn’ite.
+Ayngeyä tìftusia ’o’ livu nì’aw! | May your studying be fun!
+
+Ayoe ke wasyem. | We will not fight.
+Eltu si! Tsatstal afwem lu litx nìtxan. | Pay attention! That blunt knife is very sharp.
+
+Entul kan’ìn tìwusemit. | Entu specializes in fighting.
+Eo ayoeng lu txana tìkawng. | A great evil is upon us.
+Epxangmì lu ’upe?–Tìloho. | What’s in the stone jar?–It’s a surprise.
+Eyawrfyari zene tslivam fya’ot a mìn kifkey. | To know the right way, you have to understand how the world turns.
+Eyk Kamun a fralo längu tsasätaron velke nìwotx. | Every time Kamun is in charge, the hunt is a mess.
+-----------------------------------------------------------------------------------------------------------------
 ENG INSTRU:
-qwen:
+--qwen:
 Alaksi srak, ma frapo? | Are you ready, everyone?
 Am’aluke snayaytx Sawtute, yayora’ Na’vi. | The Sky People’s technology is far superior to Na’vi.
 Awnga kelku si nuä ayram alusìng. | We live in a village surrounded by trees.
 Ayfo solop ìlä hilvan fa uran. | They swim in the river every day.
 Aylì’fya yawne leru oer takrra ’eveng lamu. | I love the language that the children speak.
 
-llama:
+Entul kan’ìn tìwusemit. | He/She/They tricked me.  
+Eo ayoeng lu txana tìkawng. | I must understand the people.  
+Epxangmì lu ’upe?–Tìloho. | What's wrong with you?–Yes.  
+Eyawrfyari zene tslivam fya’ot a mìn kifkey. | I must understand the way you speak.  
+Eyk Kamun a fralo längu tsasätaron velke nìwotx. | They the Sky People come to hunt with the people.
+
+--llama:
 Alaksi srak, ma frapo? | Have you ever been to the forest, but not seen the forest?
 Am’aluke snayaytx Sawtute, yayora’ Na’vi. | I'm glad to see Sawtute, the Na'vi language.
 Awnga kelku si nuä ayram alusìng. | We live on the other side of the river.
 Ayfo solop ìlä hilvan fa uran. | I will only talk to you in the language of the forest.
 Aylì’fya yawne leru oer takrra ’eveng lamu. | I'm very happy that you're learning the language of the forest.
+
+Entul kan’ìn tìwusemit. | Entu is very happy with the gift.
+Eo ayoeng lu txana tìkawng. | I think that's a good idea.
+Epxangmì lu ’upe?–Tìloho. | What does it mean, teacher?
+Eyawrfyari zene tslivam fya’ot a mìn kifkey. | You must always be careful when hunting with children.
+Eyk Kamun a fralo längu tsasätaron velke nìwotx. | Jake is very good at hunting in the forest.
+------------------------------------------------------------------------------------------------------------------
+GER INSTRU:
+--qwen:
+Alaksi srak, ma frapo?  | Do you think, the place, but the place?  
+Am’aluke snayaytx Sawtute, yayora’ Na’vi.  | I am to be of the Sky People, of the Na’vi.  
+Awnga kelku si nuä ayram alusìng.  | We are to be together in this place.  
+Ayfo solop ìlä hilvan fa uran.  | They are to the time of the day.
+Aylì’fya yawne leru oer takrra ’eveng lamu. | I feel love for you, your child.  
+
+Aylì’ufa awngeyä ’eylanä a’ewan. | I feel your home.  
+Ayngari fìkem feyä ’e’ala topur kangay sìyi nì’aw. | I am making the one place to be.
+Ayngengaru oheyä tsmukit alu Newey te Tskaha Sorewn’ite. | I see the moonlight of Newey and Tskaha Sorewn’ite.  
+Ayngeyä tìftusia ’o’ livu nì’aw! | I feel happy to live in the world! 
+
+Ayoe ke wasyem. | I am to give.  
+Eltu si! Tsatstal afwem lu litx nìtxan. | Wait! Come to the place where the people are in the world.
+
+Entul kan’ìn tìwusemit | Entul says something  
+Eo ayoeng lu txana tìkawng | I understand the sky is  
+Epxangmì lu ’upe?–Tìloho | Where is the water? – It is there  
+Eyawrfyari zene tslivam fya’ot a mìn kifkey | Your expression, I understand it to be that you are speaking  
+Eyk Kamun a fralo längu tsasätaron velke nìwotx | He is the sky, to have the sky
+
+--Llama:
+Alaksi srak, ma frapo? | Have you ever been to the other side?
+Am’aluke snayaytx Sawtute, yayora’ Na’vi. | The people of Sawtute are very good at speaking Na'vi.
+Awnga kelku si nuä ayram alusìng. | We have a lot of friends on the other side.
+Ayfo solop ìlä hilvan fa uran. | I was talking about you.
+Aylì’fya yawne leru oer takrra ’eveng lamu | You are always talking about your mother.
+
+Aylì’ufa awngeyä ’eylanä a’ewan | I am very happy that you two are my friends.
+Ayngari fìkem feyä ’e’ala topur kangay sìyi nì’aw | Please, this will only confirm their worst fears about you.
+Ayngengaru oheyä tsmukit alu Newey te Tskaha Sorewn’ite. | We must understand the Sky People in order to defeat them.
+Ayngeyä tìftusia ’o’ livu nì’aw! | You are always welcome!
+
+Ayoe ke wasyem. | I don’t want that.
+Eltu si! Tsatstal afwem lu litx nìtxan. | That’s enough! The most beautiful thing is the truth.
+
+Entul kan’ìn tìwusemit | Entu is very tired.
+Eo ayoeng lu txana tìkawng | I am the one who knows how to hunt.
+Epxangmì lu ’upe?–Tìloho | What does this mean? - The teacher.
+Eyawrfyari zene tslivam fya’ot a mìn kifkey | You must always be careful when hunting with your friends.
+Eyk Kamun a fralo längu tsasätaron velke nìwotx | Jake is the one who knows how to hunt in this forest.

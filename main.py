@@ -1,8 +1,6 @@
 from ollama import chat
 from openai import OpenAI
 
-# -------------------------ask in german / french ->>english translation!
-
 with open("Na'vi Files/training.txt", "r") as f:
     training = f.read()
 
@@ -38,29 +36,25 @@ with open("test3.txt", "r") as f:
 
 
 prompt = f"""
-
-Du lernst eine konstruierte Sprache.
-Lerne von diesen Beispielen mit der Formattierung
-Na'vi Satz | Englische Übersetzung :
-
+You are learning a constructed language.
+Study these examples which are formatted like 
+Na'vi sentence | English translation :
 {training}
+Now accurately translate the following sentences.
+Give your response in the same format as the training sentences, Na'vi Sentence | Your english translation.
+Do not explain, only give the translations.
 
-Jetzt übersetze die folgenden Sätze akkurat.
-Gib deine Antwort im gleichen Format wie die Training-Sätze, Na'vi Satz | Deine Englische Übersetzung.
-Gib keine Erklärung, sondern nur die Übersetzung.
-
-Alaksi srak, ma frapo?
-Am’aluke snayaytx Sawtute, yayora’ Na’vi.
-Awnga kelku si nuä ayram alusìng.
-Ayfo solop ìlä hilvan fa uran.
-Aylì’fya yawne leru oer takrra ’eveng lamu.
-
+Aylì’ufa awngeyä ’eylanä a’ewan. 
+Ayngari fìkem feyä ’e’ala topur kangay sìyi nì’aw.
+Ayngengaru oheyä tsmukit alu Newey te Tskaha Sorewn’ite.
 
 
 
 """
 # QWEN--------------------------------------------------------------------
-
+#Ayngeyä tìftusia ’o’ livu nì’aw!
+#Ayoe ke wasyem.
+#Eltu si! Tsatstal afwem lu litx nìtxan.
 def query_qwen(prompt):
 
     response = chat(

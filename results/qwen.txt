@@ -1,50 +1,5 @@
-Here is the translation of the provided sentences into English, based on contextual understanding and grammatical structure:
-
-1. **To answer you, but what is the question?**  
-   *(From: "Alaksi srak, m'apapo' k'apapok")*  
-   This sentence appears to be a rhetorical question, possibly used in a dialogue or introspection about communication.
-
-2. **We must understand the Sky People, to speak the Na’vi language.**  
-   *(From: "Am’aluke snayaytx Sawtute, yayora’ Na’vi.")*  
-   Emphasizes the necessity of understanding the Sky People (likely a reference to humans or another group) and learning the Na’vi language.
-
-3. **We understand this the Na’vi language.**  
-   *(From: "Awnga kelku si nuä ayram alusìng.")*  
-   A straightforward statement asserting comprehension of the Na’vi language.
-
-4. **I have a day for the sun.**  
-   *(From: "Ayfo solop ìlä hilvan fa uran.")*  
-   A poetic or metaphorical expression, possibly symbolizing the sun's significance in daily life.
-
-5. **This language you speak is the mother language.**  
-   *(From: "Aylì’fya yawne leru oer takrra ’eveng lamu.")*  
-   Highlights the Na’vi language as the foundational or "mother" tongue.
-
-6. **The language you speak is the mother language.**  
-   *(From: "Aylì’ufa awngeyä ’eylanä a’ewan.")*  
-   A direct assertion that the speaker's language is the mother tongue, likely referring to Na’vi.
-
-7. **I send a message to you the day language.**  
-   *(From: "Ayngari fìkem feyä ’e’ala topur kangay sìyi nì’aw.")*  
-   A cryptic or poetic phrase, possibly referencing communication through the sun (day) or a metaphorical "language of the day."
-
-8. **We understand this the Na’vi language.**  
-   *(From: "Awnga kelku si nuä ayram alusìng.")*  
-   A repetition of sentence 3, reinforcing the theme of comprehension.
-
-9. **I have a day for the sun.**  
-   *(From: "Ayfo solop ìlä hilvan fa uran.")*  
-   A duplicate of sentence 4, possibly emphasizing a recurring concept.
-
-10. **This language you speak is the mother language.**  
-    *(From: "Aylì’fya yawne leru oer takrra ’eveng lamu.")*  
-    A repetition of sentence 5, reinforcing the idea of the Na’vi language as foundational.
-
----
-
-### Summary of Key Themes:
-- **Language and Identity**: The repeated emphasis on the Na’vi language as the "mother language" underscores its cultural and linguistic significance.
-- **Communication and Understanding**: Sentences like "We must understand the Sky People" and "We understand this the Na’vi language" highlight the importance of language in bridging gaps between groups.
-- **Metaphorical and Poetic Language**: Phrases such as "I have a day for the sun" suggest a poetic or symbolic use of language, possibly tied to natural elements or daily life.
-
-These translations reflect a blend of literal meaning and cultural context, aligning with the themes of communication, identity, and poetic expression found in the original text.
+Ayngari fìkem feyä ’e’ala topur kangay sìyi nì’aw. | I will teach you how to vanish into the bushes, and it will only confirm their worst fears about you.  
+Ayngengaru oheyä tsmukit alu Newey te Tskaha Sorewn’ite. | We must understand these Sky People, the Tskaha Sorewn’ite.  
+Ayngeyä tìftusia ’o’ livu nì’aw! | You must listen to the story, and it will confirm!  
+Ayoe ke wasyem. | I will not give up.  
+Eltu si! Tsatstal afwem lu litx nìtxan. | Wait! Take your path home.
